@@ -9,7 +9,7 @@ As taxas de conversão são obtidas através da API Fixer.io, que fornece taxas 
 <h1>Tecnologias utilizadas</h1>
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-HTML
+- HTML
 - CSS
 - JavaScript
 
