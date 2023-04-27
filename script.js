@@ -35,7 +35,7 @@ if(select.value === "€ Euro"){
 };
 
 if(select.value === "Bitcoin"){
-    currencyValueText.innerHTML = bitcoin/input
+    currencyValueText.innerHTML = (input / bitcoin).toFixed(8);
    };
 }
 
